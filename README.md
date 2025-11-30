@@ -24,7 +24,7 @@ projet-rehospitalisation/
 - R (via Jupyter Notebook avec IRkernel)
 - Packages : `dplyr`, `ggplot2`, `readxl`, `tableone`, `openxlsx`, `janitor`
 - Python (Jupyter Notebook)
-- Packages : 'scipy', 'pandas', 'statsmodels', 'sklearn', 'matplotlib'
+- Packages : `scipy`, `pandas`, `statsmodels`, `sklearn`, `matplotlib`
 
 ## 🔐 Confidentialité
 
