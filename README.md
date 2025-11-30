@@ -23,10 +23,12 @@ projet-rehospitalisation/
 
 - R (via Jupyter Notebook avec IRkernel)
 - Packages : `dplyr`, `ggplot2`, `readxl`, `tableone`, `openxlsx`, `janitor`
+- Python (Jupyter Notebook)
+- Packages : 'scipy', 'pandas', 'statsmodels', 'sklearn', 'matplotlib'
 
 ## 🔐 Confidentialité
 
-⚠️ Les données patients (fichiers Excel) sont **exclues du dépôt GitHub** pour respecter la confidentialité (voir `.gitignore`).
+Les données patients (fichiers Excel) sont **exclues du dépôt GitHub** pour respecter la confidentialité (voir `.gitignore`).
 
 ## 🚀 Lancer l’analyse
 
