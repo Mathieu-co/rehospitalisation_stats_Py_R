@@ -1,4 +1,4 @@
-# Ne pas versionner les fichiers de données
+# 1. Ne pas versionner les données brutes
 data/*
 !data/.gitkeep
 
@@ -8,12 +8,17 @@ output/*
 Rapport/*
 !Rapport/.gitkeep
 
-# Fichiers Excel
+# 2. Dossiers internes à ignorer
+anaconda_projects/
+.ipynb_checkpoints/
+.Rhistory
+.Rproj.user
+
+# 3. Fichiers lourds non versionnés
 *.xlsx
 *.csv
 *.docx
 
-# Fichiers temporaires
-.ipynb_checkpoints/
-.Rhistory
-.Rproj.user
+# 4. Autres fichiers à ignorer
+*.log
+*.tmp
